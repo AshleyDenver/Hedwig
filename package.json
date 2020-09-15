@@ -1,0 +1,35 @@
+{
+  "name": "Aspire",
+  "version": "2.0.0",
+  "description": "Yet another Discord bot with moderation and utility commands",
+  "main": "• Ash •#0001",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "discord bot",
+    "discord.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jokersus/Euphemia"
+  },
+  "author": "• Ash •#0001",
+  "license": "MIT",
+  "dependencies": {
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^6.0.0",
+    "ebay-node-api": "^2.3.1",
+    "forever": "^0.15.3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "mongodb": "^3.1.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sqlite": "^2.9.3",
+    "urban-dictionary": "^2.1.2"
+  }
+}
